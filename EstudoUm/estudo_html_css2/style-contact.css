@@ -1,0 +1,17 @@
+nav ul{
+    list-style: none;
+    
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    
+    position: fixed;
+    background-color: blueviolet;
+    height: 2rem;
+    width: 100%;
+}
+
+section{
+    min-height: 100vh;
+    padding-top: 3rem;
+}
